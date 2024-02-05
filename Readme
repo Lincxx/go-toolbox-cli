@@ -1,0 +1,7 @@
+had to add cobra-cli to gobin 
+ls ~/go/bin/cobra-cli 
+export GOBIN=~/go/bin/\
+export $PATH=$PATH:$GOBIN
+
+
+cobra-cli init toolbox
